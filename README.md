@@ -4,6 +4,8 @@
 
 🔎 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+-JavaScript, Html e Css
+
 🧑‍💻 Creditos Projeto feito em sala da Infinity School.
 
-Professor Luan Oliveira.
+-Professor Luan Oliveira.
